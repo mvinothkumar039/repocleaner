@@ -1,0 +1,4 @@
+repoCleaner Execution Summary
+========================================
+
+No stale branches were deleted in this run.
